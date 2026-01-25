@@ -3,7 +3,7 @@ var _cacheFiles = [
 	'RSDKv5.html',
 	'RSDKv5.js',
 	'RSDKv5.wasm',
-  'https://files.catbox.moe/xsfgty.rsdk'
+  'xsfgty.rsdk'
 ];
 	
 self.addEventListener('install', (e) => {
